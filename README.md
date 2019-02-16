@@ -1,3 +1,5 @@
+Simple angular app, with google sheet as a datasource. With option to search using column values. Scalable. (Doesn't use API or auth, just HTTP & Google sheet json url)
+
 # DSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
