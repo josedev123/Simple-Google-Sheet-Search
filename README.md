@@ -1,6 +1,4 @@
-Simple angular app, with Google Sheet as a datasource. Has option to search using column values. (No database or backend, doesn't use Auth. Uses Angular HTTPClient with Google sheet json url)
-
-# DSearch
+Angular Google Sheet Search. Angular app, with Google Sheet as a datasource. Has option to search using column values. (No database or backend, doesn't use Auth. Uses Angular HTTPClient with Google sheet json url)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
